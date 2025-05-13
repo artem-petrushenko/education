@@ -1,0 +1,12 @@
+flutter_native_splash:
+  android: true
+  ios: true
+
+  color: "#d4e4ed"
+  image: assets/png/logo.png
+
+  android_12:
+    color: "#f4f4fd"
+    image: assets/png/logo_small.png
+
+  ios_content_mode: scaleAspectFit
