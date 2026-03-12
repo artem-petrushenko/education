@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b268410b-34e7-488e-9ef6-a37ad61edb9d" name="Changes" comment="" />
+    <list default="true" id="b268410b-34e7-488e-9ef6-a37ad61edb9d" name="Changes" comment="flutter splash screens and native app">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter/splash_screen/flutter_splash_screen/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter/splash_screen/package_splash_screen/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/bin/behavioral/strategy.dart" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/bin/behavioral/strategy.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/bin/structural/decorator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/bin/structural/decorator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/bin/structural/facade.dart" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/bin/structural/facade.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/bin/structural/flyweight.dart" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/bin/structural/flyweight.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/bin/structural/proxy.dart" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/bin/structural/proxy.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/bin/сreational/factory_method.dart" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/bin/сreational/factory_method.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/bin/сreational/prototype.dart" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/bin/сreational/prototype.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/bin/сreational/singleton.dart" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/bin/сreational/singleton.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/pubspec.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,41 +30,70 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "artem-petrushenko"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;artem-petrushenko&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/artem-petrushenko/education.git",
-    "accountId": "cbd6707c-53ca-4c8c-9b59-fdf112e5cbc6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/artem-petrushenko/education.git&quot;,
+    &quot;accountId&quot;: &quot;d9577213-10ef-4a97-ac91-eee1958b71a1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2x2VQITMSKE71Etb2KZWj0b1jT5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.restore.workspace.module&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/flutter/splash_screen" />
       <recent name="$PROJECT_DIR$/native/native_app" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,8 +102,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747136137975</updated>
+      <workItem from="1767201835078" duration="366000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>

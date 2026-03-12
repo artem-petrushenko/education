@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/animation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter/splash_screen/flutter_splash_screen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter/splash_screen/flutter_splash_screen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter/splash_screen/flutter_splash_screen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter/splash_screen/package_splash_screen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter/splash_screen/package_splash_screen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter/splash_screen/package_splash_screen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_with_native/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_with_native/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_with_native/build" />
+      <excludeFolder url="file://$MODULE_DIR$/local_storage/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/local_storage/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/local_storage/build" />
+      <excludeFolder url="file://$MODULE_DIR$/local_storage/ios/.symlinks/plugins/shared_preferences_foundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/local_storage/ios/.symlinks/plugins/shared_preferences_foundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/local_storage/ios/.symlinks/plugins/shared_preferences_foundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/local_storage/ios/.symlinks/plugins/shared_preferences_foundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/local_storage/ios/.symlinks/plugins/shared_preferences_foundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/local_storage/ios/.symlinks/plugins/shared_preferences_foundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/patterns/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/patterns/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/patterns/build" />
+      <excludeFolder url="file://$MODULE_DIR$/shader_compilation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/shader_compilation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/shader_compilation/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
